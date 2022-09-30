@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Forma</h2>
+    <p> Na ovoj stranicici cemo raditi forme i videti na koji nacin funkcionise prijavljivanje na nekoj drustvenoj mrezi</p>
+    <!-- form, h1,p,button su tagovi,
+        a type,action su atributi-->
+        <!-- Unutar form taga imamo atribut action koji se odnosi na to gde ce nas odvesti dugme submite-->
+<form action="\index2.html">
+    <label for="name"> Unesite svoje ime</label>
+    <input type="text" placeholder="unesite ime" required> 
+<br>
+<br>
+    <label for="prezime"> Unesite vase prezime</label>
+    <input type="text" placeholder="uniste prezime" required> 
+<br><br>
+<label for="email"> Unesite vas email</label>
+<input type="text" placeholder="Unesite email" required>
+<br> <br>
+<label for="sifra">Unesite vasu sifricu</label>
+<input type="password" placeholder="Unesite vasu sifricu" required>
+<br><br>
+<label for="Godine">Unesite vase godine</label>
+<input type="number" min="18" max="38" step="5">
+<br><br>
+<label for="datum"> Unesite vas datum rodjenja</label>
+<input type="date" min="1939-09-01" max="1945-09-02" >
+<br><br>
+<p> Odaberite vase omiljeno voce</p>
+<label for="jagoda">Jagoda</label>
+<input type="checkbox" >
+<br><br>
+<label for="breskva">Breskva</label>
+<input type="checkbox">
+<br><br>
+<p>Unesite spol</p>
+<label for="musko">M</label>
+<input type="radio" value="male">
+<br><br>
+<label for="Boja ociju">Unesite boju ocijuu</label>
+<select name="boja ociju" id="Boja ociju">
+<option value="zelena"> Zelene</option>
+<option value="plave">plave</option>
+</select>
+<br><br>
+
+<label for="color">Unesite omiljenu boju</label>
+<input type="color" name="Boja" id="color">
+
+
+
+
+
+<!--Radio je ya kruzice->
+</form>
+</body>
+</html>
