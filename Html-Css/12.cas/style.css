@@ -1,0 +1,58 @@
+header{
+    background-size: cover;
+    background-image: url("https://images.unsplash.com/photo-1543731068-7e0f5beff43a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80");
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    float: right;
+    list-style: none;
+    margin: 15px;
+}
+ul li{
+
+color: white;
+padding: 15px, 20px;
+transition: 0.6 ease;
+
+}
+ul li:hover{
+    background-color: white;
+    color: black;
+}
+.logo img{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+.title{
+    position: absolute;
+    top: 50%;
+    left: 32%;
+}
+.title H1{
+    color: white;
+    font-size: 70px;
+}
+.botton{
+    position: absolute;
+    top: 70%;
+    left: 39%;
+}
+.btn{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    border: 1px solid #ffffff;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+ul.li :active{
+    background-color: white;
+    color: black;
+}
