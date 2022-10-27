@@ -1,0 +1,23 @@
+.flex-box{
+background-color: greenyellow;
+justify-content: start;
+color: white;
+height: 100px;
+
+}
+.Artical{
+background-color:rgb(255, 255, 255);
+padding: 250px;
+margin-right: 190px;
+}
+.Footer{
+    background-color: greenyellow;
+margin-right: 190px;
+height: 100px;
+}
+.Aside{
+    background-color: bisque;
+    flex-grow: 1;
+    display: flex;
+
+}

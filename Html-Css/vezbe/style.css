@@ -1,0 +1,23 @@
+span{
+    color: blue;
+}
+
+
+  li {
+    display: inline-block;
+    color: white;
+  }
+
+  ul{
+    float: right;
+    margin-top: 8px;
+    width: auto;
+  }
+
+  h1{
+    position: relative;
+    padding: 3px;
+    margin-left: 2%;
+    margin-top: 10px;
+    float: left;
+  }

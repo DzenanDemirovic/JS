@@ -1,0 +1,17 @@
+
+.red{
+    width: 40px;
+}
+th{
+    color: red;
+}
+table, th,td ,tr{
+    border: 1px solid black;
+    border-radius: 10px ;
+}
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+ }
+ table {
+    margin-left:auto; 
+    margin-right:auto;
