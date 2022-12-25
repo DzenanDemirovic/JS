@@ -51,12 +51,12 @@
 // nasNiz.push(brojac);
 // nasNiz.push(sumaNegativnih);
 // console.log(nasNiz);
-prvi="Elektrotehnika";
-drugi="Racunarstvo"
+// prvi="Elektrotehnika";
+// drugi="Racunarstvo"
 
-if(prvi.lenght<drugi.lenght){
-    console.log(prvi,drugi,prvi);
+// if(prvi.lenght<drugi.lenght){
+//     console.log(prvi,drugi,prvi);
 
-}else{
-    console.log(drugi,prvi,drugi);
-}
+// }else{
+//     console.log(drugi,prvi,drugi);
+// }
