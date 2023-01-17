@@ -24,7 +24,7 @@
 // rezultat+=number[i]**2
 // }
 // console.log(rezultat);
-const like =["Ensaraa","Mehmed","Dzenis","Dzenan","Dzejlana"]
+const like =["Ensar","Mehmed","Dzenis","Dzenan","Dzejlana"]
 switch(like.length){
 case 0:
 console.log("No one likes you");
