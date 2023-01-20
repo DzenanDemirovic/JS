@@ -5,7 +5,7 @@ let theLongestWorld = " "
 for(let i =0 ; i<strArray.length;i++){
     if(strArray[i].length >= theLongestWorld.length){
         theLongestWorld= strArray[i]
-      debugger;
+      debugger
     }
 }
 console.log(theLongestWorld);

@@ -40,7 +40,7 @@
 
 //shift-uklanja elemennt sa poslednjeg niza
 // 
-// includes()-proveravamoo da li se neki element nalazi u niz string
+// includes()-proveravamooo da li se neki element nalazi u niz string
 // const exampleIncludes=[12,11,44,43];
 // console.log(exampleIncludes.includes(12));
 
