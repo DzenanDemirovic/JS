@@ -5,7 +5,7 @@
 //     brojSlova++;
     
 // }
-// // console.log(brojSlova);
+// // console.log(brojSlova); 
 // UNesi string i vidi koliko ima malih slova
 // rec=prompt("Unesi neku rec");
 // brojacSlova=0;
@@ -74,3 +74,4 @@
 //     novaRec=prvaRec [i] +drugaRec[i];
 // }
 // console.log(novaRec);
+n=[]
