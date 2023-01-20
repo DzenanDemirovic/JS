@@ -24,17 +24,17 @@
 // rezultat+=number[i]**2
 // }
 // console.log(rezultat);
-const like =["Ensar","Mehmedd","Dzenis","Dzenan","Dzejlana"]
-switch(like.length){
-case 0:
-console.log("No one likes you");
-break;
+// const like =["Ensar","Mehmedd","Dzenis","Dzenan","Dzejlana"]
+// switch(like.length){
+// case 0:
+// console.log("No one likes you");
+// break;
 
-case 1 :
-    console.log(like[0]+"likes u ")
-    break;
+// case 1 :
+//     console.log(like[0]+"likes u ")
+//     break;
 
-    case 2
+//     case 2
 
 
 
