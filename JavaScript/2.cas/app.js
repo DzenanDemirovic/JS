@@ -26,7 +26,7 @@ a=-10;
 //     console.log("Sreda");
 // }
 // else if(a===4){
-//     console.log("Cetvrtak;");
+//     console.log("Cetvrtak");
 // }
 // else if(a===5){
 //     console.log("Petak");
