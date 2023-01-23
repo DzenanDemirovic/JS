@@ -38,7 +38,7 @@ a=-10;
 //     console.log("Nedelja");
 // }
 // else{
-//     console.log("Taj dan ne postoji");
+//     console.log("Taj dan ne postoji");;
 // }
 
 
