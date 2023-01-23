@@ -42,7 +42,7 @@ a=-10;
 // }
 
 
-// a=Number(prompt("Unesi broj"));
+// a=Number(prompt("Unesi broj"));;
 // if(a%2===0){
 //     console.log("Broj je paran");
 // }
