@@ -24,7 +24,7 @@ const osoba = {
   
   // // delete osoba.ime;
   // console.log(osoba);
-  console.log(Object.keys(osoba));
+  console.log(Object.keys(osobaa));
   console.log(Object.values(osoba));
   console.log(typeof null);
   
