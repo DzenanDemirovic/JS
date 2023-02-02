@@ -60,24 +60,24 @@
 // prethodna =0, trenutna 1= 1, 0+1 = 1
 // prethodna 1, trenutna = 2 , 1+2=3
 // Objekat name = "dog",legs:4,color="white"
-const input = [ 
-   { name: "John"
-   age=13,
-    }
- {
-    name : "Mark"
-    age = 56;
- }
- {
-    name : "Rachel"
-    age: 45,
- }
- {
-  name: "Mate"
-  age= 34  
- }
-]
-for( let i = 0 ; i<input.length;i++){
-    console.log(input[i]);
-}
+// const input = [ 
+//    { name: "John"
+//    age=13,
+//     }
+//  {
+//     name : "Mark"
+//     age = 56;
+//  }
+//  {
+//     name : "Rachel"
+//     age: 45,
+//  }
+//  {
+//   name: "Mate"
+//   age= 34  
+//  }
+// ]
+// for( let i = 0 ; i<input.length;i++){
+//     console.log(input[i]);
+// }
 
