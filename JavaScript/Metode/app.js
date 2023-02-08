@@ -83,8 +83,8 @@
 
 //indexOf(" ")-vraca nam index trazenog elementa
 // console.log(exampleFilter.indexOf(7));
+ 
 //map() - vraca nam ceo niz, ali izmenjen
-
 // const exampleMap = [10, 15, 45, 65, 7, 8, 9];
 // const newExample = exampleMap.map((x) => x * 2);
 // console.log(newExample);
