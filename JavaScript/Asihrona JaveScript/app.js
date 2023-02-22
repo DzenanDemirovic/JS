@@ -136,7 +136,29 @@ function reduce(array, callback, initialValue) {
 
 
 
-
+     function cntactTwoArray (array1,array2){
+      let newArray = array1;
+      for(i=0;i<array2.length;i++){
+        if(!array1.includes(array2[i){
+          newArray.push(array2[i];
+        return newArray
+           }
+      }
+    }
+    
+    // Challenge 8
+    function union(arrays) {
+      return reduce(arrays,cntactTwoArray);
+    
+    }
+    
+     console.log(union([[5, 10, 15], [15, 88, 1, 5, 7], [100, 15, 10, 1, 5]]));
+     should log: [5, 10, 15, 88, 1, 7, 100]
+    
+    
+    // Challenge 9
+    function objOfMatches(array1, array2, callback) {
+    
 
 
 
