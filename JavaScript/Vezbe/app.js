@@ -94,3 +94,25 @@
 //     method : "Delete",
 // }
 // .then((response)=> console.log("Odogvot je",response.status);
+// fetch put
+// const dataPut = { 
+//     id : 1,
+//     title : "Izmena",
+//     completed : true
+// // };
+// fetch("https://run.mocky.io/v3/e9becdcf-3dd2-41d9-a499-049b392172f2"{
+//   method : "Put",
+//   body : JSON.stringify(dataPut),
+//   headers : {
+//     "Content-Type": "aplication/json",
+//   },
+// });
+// .then((response)=> response.json())
+// .then((data)=>console.log(data));
+
+
+// fetch('https://example.com/delete-item/' + id, {
+//   method: 'DELETE',
+// })
+// .then(res => res.text()) // or res.json()
+// .then(res => console.log(res))

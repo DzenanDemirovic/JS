@@ -1,4 +1,4 @@
-//calstack - funkcija koja se pozivao kao argument druge funkcije
+ //calstack - funkcija koja se pozivao kao argument druge funkcije
 // function PomnoziDvaBroja(a,b){
 //     return a*b;
 // }

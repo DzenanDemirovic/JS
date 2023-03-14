@@ -121,11 +121,11 @@
 //     title : "Nova obaveza"
 //     compli
 // 
-// fetch()
-fetch("https://run.mocky.io/v3/e9becdcf-3dd2-41d9-a499-049b392172f2")
-.then((response)=> response.json())
-.then((data)=>console.log(data));
-//delete kada uspe pojavi se status 200
-fetch("https://run.mocky.io/v3/e9becdcf-3dd2-41d9-a499-049b392172f2"){
-    method : "Delete",
-}).then((response)=> console.log("Odogvot je",response.status);
+// // fetch()
+// fetch("https://run.mocky.io/v3/e9becdcf-3dd2-41d9-a499-049b392172f2")
+// .then((response)=> response.json())
+// .then((data)=>console.log(data));
+// //delete kada uspe pojavi se status 200
+// fetch("https://run.mocky.io/v3/e9becdcf-3dd2-41d9-a499-049b392172f2"{
+//     method : "Delete",
+// }).then((response)=> console.log("Odogvot je",response.status);
