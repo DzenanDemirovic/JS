@@ -6,4 +6,4 @@ async function getAllUsers(){
     );
     let response = data.json();
     return response
-      }
+      };

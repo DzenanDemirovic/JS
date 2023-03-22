@@ -13,7 +13,7 @@ podaciKorisnika.forEach(element => {
     createCard(element.name,element.username,element.id);
 });
 
-    console.log(podaciKorisnika)
+    console.log(podaciKorisnika);
   });
 
 function createCard(name,username,id){
