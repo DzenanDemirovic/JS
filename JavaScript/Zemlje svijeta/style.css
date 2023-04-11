@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    box-sizing: 0;
+}
+h1{
+    position: relative;
+    left: 40%;
+}
+.search{
+    position: relative;
+    left: 40%;
+    margin: 20px;
+    
+  
+   
+}
+button{
+    border: 1px  black groove ;
+    border-radius:50px ;
+    font-size: 15px;
+}
+input{
+    border: 1px  black groove ;
+    border-radius:50px ;
+    
+    font-size: 15px;
+}
+.country-card{
+    display: flex;
+    width: 250px;
+    height: 150px;
+    border: 1px black;
+    background-color: rgb(51, 0, 255);
+    justify-content: space-around;
+    align-items: center;
+    
+}
